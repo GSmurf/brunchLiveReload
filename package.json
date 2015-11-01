@@ -5,6 +5,7 @@
   "devDependencies": {
     "bower": "^1.6.5",
     "brunch": "^1.8.5",
+    "jade-brunch": "^1.8.1",
     "javascript-brunch": "^1.8.0",
     "sass-brunch": "^1.9.1"
   }
