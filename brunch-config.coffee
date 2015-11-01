@@ -1,6 +1,6 @@
 module.exports = config:
   files:
     javascripts: joinTo:
-      'libraries.js': /^app[\\\/]jquery\.js/
-      'app.js': /^(?!app[\\\/]jquery\.js)/
+      'libraries.js': /^bower_components/
+      'app.js': /^app/
     stylesheets: joinTo: 'app.css'

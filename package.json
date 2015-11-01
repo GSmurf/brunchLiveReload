@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "bower": "^1.6.5",
     "brunch": "^1.8.5",
     "javascript-brunch": "^1.8.0",
     "sass-brunch": "^1.9.1"
