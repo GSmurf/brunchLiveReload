@@ -2,9 +2,9 @@
 * git clone git@github.com:GSmurf/brunchLiveReload.git
 * cd brunchLiveReload
 * npm install -g brunch
-* npm install -D brunch javascript-brunch sass-brunch jade-brunch auto-reload-brunch bower
-* bower install --save jquery#1.*
+* npm install
+* node_modules/bower/bin/bower install
 
 # Utilisation
-* Lancer brunch w --server
+* brunch w --server
 * se connecter par défaut à l'adresse http://localhost:3333 avec chrome
