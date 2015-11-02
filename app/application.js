@@ -1,7 +1,10 @@
 "use strict";
 
 var App = {
-  items: ['Learn Brunch', 'Apply to my projects', '…', 'Profit!',  'Plouperié !!!'],
+  items: ['Installer les dépendances de brunch', 
+	      'Installer bower pour les références tierce du genre jquery ou autres', 
+	      'Lancer brunch w --server', 
+	      'Se connecter par défaut à l\'adresse http://localhost:3333 avec chrome!'],
 
   init: function init() {
     var tmpl = require('views/list');

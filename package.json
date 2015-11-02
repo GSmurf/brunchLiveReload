@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "auto-reload-brunch": "^1.8.1",
     "bower": "^1.6.5",
     "brunch": "^1.8.5",
     "jade-brunch": "^1.8.1",

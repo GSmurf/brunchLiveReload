@@ -5,3 +5,10 @@ module.exports = config:
       'app.js': /^app/
     stylesheets: joinTo: 'app.css'
     templates: joinTo: 'app.js'
+overrides:
+  production:
+    optimize: true
+    sourceMaps: false
+    plugins: autoReload: enabled: false
+server:
+  run: yes    
