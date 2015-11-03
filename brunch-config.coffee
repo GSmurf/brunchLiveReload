@@ -8,7 +8,7 @@ module.exports = config:
 overrides:
   production:
     optimize: true
-    sourceMaps: false
-    plugins: autoReload: enabled: false
+    sourceMaps: true
+    plugins: autoReload: enabled: true
 server:
-  run: yes    
+  run: yes

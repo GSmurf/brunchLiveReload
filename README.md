@@ -6,5 +6,6 @@
 * node_modules/bower/bin/bower install
 
 # Utilisation
-* brunch w --server
+* brunch w -s // pour dev
+* brunch b -P // pour production minifié etc...
 * se connecter par défaut à l'adresse http://localhost:3333 avec chrome
